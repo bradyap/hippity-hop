@@ -1,0 +1,1 @@
+C:\Users\ismga\OneDrive\Documents\VScode\rust-testings\hippity-hop\windows-client\target\debug\windows-client.exe: C:\Users\ismga\OneDrive\Documents\VScode\rust-testings\hippity-hop\windows-client\src\main.rs
