@@ -2,4 +2,4 @@
 
 # Rust
 target/
-*Cargo.lock
+**/Cargo.lock
